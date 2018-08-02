@@ -1,0 +1,47 @@
+.Login-main-container{
+        background: linear-gradient(to bottom right, rgb(47, 156, 245), rgb(177, 233, 255));
+        height: 100vh;
+        box-sizing: border-box;
+        padding: 200px;
+}
+
+form.login-form {
+    width: 320px;
+    margin: auto;
+    border-radius: 4px;
+    padding: 20px 10px;
+    background: rgba(254, 254, 254, 0.8);
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 0px;
+    color: rgb(54, 54, 54);
+    font-weight: bold;
+}
+
+.input-container {
+    width: 90%;
+    margin:  auto;
+    margin-bottom:  12px;
+}
+
+.input-container input {
+    width:  100%;
+    font-size:  14px;
+    padding:  3px;
+    background:  none;
+    border:  none;
+    color: rgb(54, 54, 54);
+    border-bottom: solid 1px rgb(54, 54, 54);
+}
+
+.Login-main-container button {
+    width: 100px;
+    border-radius: 4px;
+    background: rgb(54, 54, 54);
+    color: white;
+    padding: 5px 20px;
+    font-size: 20px;
+    margin-top: 10px;
+}
